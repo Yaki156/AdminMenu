@@ -1,0 +1,9 @@
+name: AdminMenu
+version: '1.0-SNAPSHOT'
+main: me.yaki.adminmenu.AdminMenu
+api-version: '1.16'
+authors: [Yaki]
+description: Admin
+
+commands:
+  panel:

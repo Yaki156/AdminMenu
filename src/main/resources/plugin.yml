@@ -1,0 +1,9 @@
+name: AdminMenu
+version: '${project.version}'
+main: me.yaki.adminmenu.AdminMenu
+api-version: '1.16'
+authors: [Yaki]
+description: Admin
+
+commands:
+  panel:
